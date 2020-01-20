@@ -16,5 +16,11 @@ autolink = true
 #   1: Netlify (requires that the site is hosted by Netlify)
 #   2: formspree.io
 email_form = 0
+
+
+[design.spacing]
+ #Customize the section spacing. Order is top, right, bottom, left.
+ padding = ["50px", "0", "50px", "0"]
+
 +++
 
