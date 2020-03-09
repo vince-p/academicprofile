@@ -1,7 +1,7 @@
 +++
 title = "Music and Healing"
 date = "2020-01-01"
-authors = ["G. Perry", "V. Polito"]
+authors = ["Gemma Perry", "Vince Polito"]
 publication_types = ["6"]
 publication = "From Mozart in the office to Metallica at the Gym: The Psychology and Science of Music"
 publication_short = "From Mozart in the office to Metallica at the Gym: The Psychology and Science of Music"

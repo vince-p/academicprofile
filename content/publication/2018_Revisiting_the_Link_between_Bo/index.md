@@ -1,5 +1,5 @@
 +++
-title = "Revisiting the link between body and agency: visual movement congruency enhances intentional binding but is not body-specific"
+title = "Revisiting the link between body and agency: Visual movement congruency enhances intentional binding but is not body-specific"
 date = "2018-01-01"
 authors = ["Regine Zopf", "Vince Polito", "James Moore"]
 publication_types = ["2"]
