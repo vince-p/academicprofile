@@ -1,5 +1,5 @@
 +++
-title = "The Experience of Altered States of Consciousness in Shamanic Ritual: The Role of Pre-Existing Beliefs and Affective Factors"
+title = "The experience of altered states of consciousness in shamanic ritual: The role of pre-existing beliefs and affective factors"
 date = "2010-12-01"
 authors = ["Vince Polito", "Robyn Langdon", "Jac Brown"]
 publication_types = ["2"]

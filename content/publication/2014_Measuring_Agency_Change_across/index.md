@@ -1,5 +1,5 @@
 +++
-title = "Measuring Agency Change across the Domain of Hypnosis"
+title = "Measuring agency change across the domain of hypnosis"
 date = "2014-01-01"
 authors = ["Vince Polito", "Amanda J. Barnier", "Erik Z. Woody", "Michael H. Connors"]
 publication_types = ["2"]

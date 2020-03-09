@@ -1,5 +1,5 @@
 +++
-title = "SoCog: Manual for Mental-State Reasoning and Emotion Recognition Training. Sydney: Macquarie University"
+title = "SoCog: Manual for mental-state reasoning and emotion recognition training. Sydney: Macquarie University"
 date = "2013-01-01"
 authors = ["P. Marsh", "J. McGuire", "V. Polito", "B. Lee", "R. Langdon", "T. Anandakumar", "J. Atwell", "G. Luckett", "A. Surev", "A. Harris", "M. Coltheart"]
 publication_types = ["5"]

@@ -1,5 +1,5 @@
 +++
-title = "Willed Action in Schizophrenia"
+title = "Willed action in schizophrenia"
 date = "2007-03-01"
 authors = ["Robyn Langdon", "Jen McLaren", "Vince Polito", "Max Coltheart", "Philip B. Ward"]
 publication_types = ["2"]
