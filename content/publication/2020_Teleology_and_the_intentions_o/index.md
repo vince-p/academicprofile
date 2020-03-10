@@ -1,6 +1,6 @@
 +++
 title = "Teleology and the intentions of supernatural agents"
-date = 2020-04-01
+date = 2020-03-10
 authors = ["Andrew Roberts", "Colin A. Wastell", "Vince Polito"]
 publication_types = ["2"]
 publication = "Consciousness and Cognition, (80), _pp. 102905_, https://doi.org/10.1016/j.concog.2020.102905"
