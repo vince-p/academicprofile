@@ -1,7 +1,7 @@
 +++
 title = "SoCog: Manual for mental-state reasoning and emotion recognition training. Sydney: Macquarie University"
 date = "2013-01-01"
-authors = ["P. Marsh", "J. McGuire", "V. Polito", "B. Lee", "R. Langdon", "T. Anandakumar", "J. Atwell", "G. Luckett", "A. Surev", "A. Harris", "M. Coltheart"]
+authors = ["Pamela Marsh", "Jonathan McGuire", "Vince Polito", "B. Lee", "Robyn Langdon", "Thushara Anandakumar", "Jilly Atwell", "Gemma Luckett", "Anna Surev", "Anthony Harris", "Max Coltheart"]
 publication_types = ["5"]
 publication = "NA"
 publication_short = "NA"

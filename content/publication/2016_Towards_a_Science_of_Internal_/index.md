@@ -1,7 +1,7 @@
 +++
 title = "Towards a science of internal experience:  Conceptual and methodological issues in hypnosis and meditation research"
 date = "2016-01-01"
-authors = ["Vince Polito", "M. H. Connors"]
+authors = ["Vince Polito", "Michael Connors"]
 publication_types = ["6"]
 publication = "Hypnosis and meditation:  Toward an integrative science of conscious planes, _pp. 171--187_"
 publication_short = "Hypnosis and meditation:  Toward an integrative science of conscious planes, _pp. 171--187_"

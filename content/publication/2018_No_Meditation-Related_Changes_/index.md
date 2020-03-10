@@ -1,7 +1,7 @@
 +++
 title = "No meditation-related changes in the auditory N1 during first-time meditation"
 date = "2018-05-01"
-authors = ["L. J. Barnes", "G. M. McArthur", "B. A. Biedermann", "P. de Lissa", "V. Polito", "N. A. Badcock"]
+authors = ["Lydia Barnes", "Genevieve McArthur", "Britta Biedermann", "Peter de Lissa", "Vince Polito", "Nicholas Badcock"]
 publication_types = ["2"]
 publication = "International Journal of Psychophysiology, (127), _pp. 26--37_, https://doi.org/10.1016/j.ijpsycho.2018.03.003"
 publication_short = "International Journal of Psychophysiology, (127), _pp. 26--37_, https://doi.org/10.1016/j.ijpsycho.2018.03.003"

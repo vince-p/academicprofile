@@ -1,7 +1,7 @@
 +++
 title = "A quasi-randomized feasibility pilot study of specific treatments to improve emotion recognition and mental-state reasoning impairments in schizophrenia"
 date = "2016-10-01"
-authors = ["Pamela Jane Marsh", "Vince Polito", "Subba Singh", "Max Coltheart", "Robyn Langdon", "Anthony W. Harris"]
+authors = ["Pamela Marsh", "Vince Polito", "Subba Singh", "Max Coltheart", "Robyn Langdon", "Anthony Harris"]
 publication_types = ["2"]
 publication = "BMC Psychiatry, (16), 1, _pp. 360_, https://doi.org/10.1186/s12888-016-1064-6"
 publication_short = "BMC Psychiatry, (16), 1, _pp. 360_, https://doi.org/10.1186/s12888-016-1064-6"

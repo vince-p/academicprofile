@@ -1,7 +1,7 @@
 +++
 title = "Defining hypnosis: Process, product, and the value of tolerating ambiguity"
 date = "2014-03-01"
-authors = ["V. Polito", "Amanda J. Barnier", "Kevin M. McConkey"]
+authors = ["Vince Polito", "Amanda J. Barnier", "Kevin M. McConkey"]
 publication_types = ["2"]
 publication = "The Journal of Mind–Body Regulation, (2), 2, _pp. 118--120_"
 publication_short = "The Journal of Mind–Body Regulation, (2), 2, _pp. 118--120_"
