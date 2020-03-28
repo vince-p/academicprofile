@@ -1,6 +1,6 @@
 +++
 title = "Commission for The Human Future"
-publishDate = 2020-03-28T10:00:00  # Schedule page publish date.
+publishDate = 2020-02-28T10:00:00  # Schedule page publish date.
 draft = false
 profile = false
 
