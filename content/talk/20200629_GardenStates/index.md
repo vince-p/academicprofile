@@ -13,7 +13,7 @@ date_end = 2020-07-05T19:00:00
 authors = []
 
 # Abstract and optional shortened version.
-abstract = "I'm facilitating a panel on Australian Psychedelic Research Panel as part of e [Entheogenesis Australias Garden States](https://www.entheogenesis.org/livestream/)"
+abstract = "I'm facilitating a panel on Australian Psychedelic Research Panel as part of [Entheogenesis Australias Garden States](https://www.entheogenesis.org/livestream/)"
 
 # Name of event and optional event URL.
 event = "Entheogenesis Australias Garden States Livestream"
