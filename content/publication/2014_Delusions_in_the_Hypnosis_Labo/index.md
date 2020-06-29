@@ -1,5 +1,5 @@
 +++
-title = "Delusions in the hypnosis laboratory:  Modeling different pathways to mirrored-self misidentification"
+title = "Delusions in the Hypnosis Laboratory:  Modeling Different Pathways to Mirrored-Self Misidentification"
 date = "2014-01-01"
 authors = ["Michael Connors", "Amanda Barnier", "Robyn Langdon", "Robyn Cox", "Vince Polito", "Max Coltheart"]
 publication_types = ["2"]

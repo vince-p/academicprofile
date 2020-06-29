@@ -1,5 +1,5 @@
 +++
-title = "Sense of agency: Theory, methods, and application"
+title = "Sense of Agency: Theory, Methods, and Application"
 date = "2015-01-01"
 authors = ["Vince Polito", "Flavie Waters", "Doris McIlwain"]
 publication_types = ["2"]

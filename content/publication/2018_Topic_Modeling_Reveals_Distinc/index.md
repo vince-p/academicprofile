@@ -1,5 +1,5 @@
 +++
-title = "Topic modeling reveals distinct interests within an online conspiracy forum"
+title = "Topic Modeling Reveals Distinct Interests within an Online Conspiracy Forum"
 date = "2018-02-01"
 authors = ["Colin Klein", "Peter Clutton", "Vince Polito"]
 publication_types = ["2"]

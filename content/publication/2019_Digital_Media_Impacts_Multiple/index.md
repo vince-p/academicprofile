@@ -1,5 +1,5 @@
 +++
-title = "Digital media impacts multiple aspects of self representation: An investigation of flow, agency, presence, character identification and time perception"
+title = "Digital Media Impacts Multiple Aspects of Self Representation: An Investigation of Flow, Agency, Presence, Character Identification and Time Perception"
 date = "2019-11-01"
 authors = ["Vince Polito", "Michael Hitchens"]
 publication_types = ["2"]
