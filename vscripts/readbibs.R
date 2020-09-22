@@ -1,6 +1,6 @@
 #adapted from https://lbusett.netlify.com/post/automatically-importing-publications-from-bibtex-to-a-hugo-academic-blog/
 
-bibfile <- "vscripts/bb.bib"
+bibfile <- "c:/bib/papers.bib"
 out_fold   <- "content/publication"
 
 bibtex_2academic <- function(bibfile,
