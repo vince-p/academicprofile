@@ -1,5 +1,6 @@
 +++
 title = "Placebo or Panacea? Experiences and Beliefs of People who Microdose Psychedelics"
+<<<<<<< HEAD
 publishDate = 2020-11-08T10:00:00  # Schedule page publish date.
 draft = false
 profile = false
