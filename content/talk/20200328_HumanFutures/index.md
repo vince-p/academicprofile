@@ -17,7 +17,7 @@ abstract = "Roundtable on Surviving and Prospering in The 21st Century"
 
 # Name of event and optional event URL.
 event = "Roundtable on Surviving and Prospering in The 21st Century"
-event_url = "http://www.humansforsurvival.org/about"
+event_url = "https://humanfuture.net/"
 
 # Location of event.
 location = "Australian National University"
