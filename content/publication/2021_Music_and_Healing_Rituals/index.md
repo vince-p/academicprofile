@@ -1,10 +1,10 @@
 +++
 title = "Music and Healing Rituals"
-date = "2020-01-01"
+date = "2021-01-01"
 authors = ["Gemma Perry", "Vince Polito"]
 publication_types = ["6"]
-publication = "From Mozart in the Office to Metallica at the Gym: The Psychology and Science of Music"
-publication_short = "From Mozart in the Office to Metallica at the Gym: The Psychology and Science of Music"
+publication = "From Mozart in the Office to Metallica at the Gym: The Psychology and Science of Music, _pp. 197--204_"
+publication_short = "From Mozart in the Office to Metallica at the Gym: The Psychology and Science of Music, _pp. 197--204_"
 abstract = "NA"
 summary = ""
 image_preview = ""
