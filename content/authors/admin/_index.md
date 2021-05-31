@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Vince Polito
+name: Dr Vince Polito
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Fellow in Cognitive Science
+role: Senior Research Fellow in Cognitive Science
 
 # Organizations/Affiliations
 organizations:
@@ -18,13 +18,14 @@ organizations:
   url: "https://researchers.mq.edu.au/en/persons/vince-polito"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a Research Fellow in the Department of Cognitive Science at Macquarie University.
+bio: I'm a Senior Research Fellow in the Department of Cognitive Science at Macquarie University.
 
 interests:
 - Self Representation
 - Sense of Agency
 - Belief Formation
 - Altered States of Consciousness
+- Psychedelics
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
