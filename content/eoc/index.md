@@ -13,7 +13,7 @@ header:
   caption: "Art by Ramin Nazer"
   image: "1600x400_NarrowBanner.png"
 ---
-![alternative text for search engines](water.jpg)
+![EOC](water.jpg)
 ## **Otherworldly Events and Dr Vince Polito present**
 # **Science at the Edge of Consciousness**
 
@@ -26,8 +26,8 @@ We will explore how meditation can change our senses, test whether hypnotic sugg
 <br />
 <br />
 This interactive presentation will include opportunities for the audience to experience and compare some consciousness altering technologies.
-<br />
-<br />
+
+{{< figure src="logo.png" width=200 >}}
 ## **Science at the Edge of Consciousness will be presented around Australia during National Science Week:**
 
 ### Sydney Saturday 14th August

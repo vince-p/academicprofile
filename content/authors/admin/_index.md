@@ -68,3 +68,12 @@ I'm a Research Fellow in the Department of Cognitive Science at Macquarie Univer
 My research focuses on developing measures of how our sense of self changes in different contexts, clinical conditions, and altered states of consciousness.
 
 My work has been profiled by [Buzzfeed,](https://www.buzzfeed.com/elfyscott/were-starting-to-learn-some-incredible-things-about-hypnosis) [Nine News,](https://www.nine.com.au/entertainment/viral/virtual-reality-science-research/30bfd41f-d256-44f7-9744-d9a3a5a18e6a) [ABC News24](https://www.youtube.com/watch?v=J0OhYzOo47k&feature=youtu.be) and [many others.](#media)
+
+
+
+----
+
+**This August I will be presenting a public lecture -- [*Science at the Edge of Consciousness*](/eoc) -- around Australia during National Science Week**
+
+----
+
