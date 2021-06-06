@@ -10,7 +10,7 @@ comments: false  # Show comments?
 
 # Optional header image (relative to `static/img` folder).
 header:
-  caption: "CAPTION!"
+  caption: "Art by Ramin Nazer"
   image: "1600x400_NarrowBanner.png"
 ---
 ![alternative text for search engines](water.jpg)
