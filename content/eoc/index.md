@@ -26,8 +26,8 @@ We will explore how meditation can change our senses, test whether hypnotic sugg
 <br />
 <br />
 This interactive presentation will include opportunities for the audience to experience and compare some consciousness altering technologies.
+[![Otherworldly Events](logo_200.png)](https://www.facebook.com/wowotherworldevents)
 
-{{< figure src="logo.png" width=200 >}}
 ## **Science at the Edge of Consciousness will be presented around Australia during National Science Week:**
 
 ### Sydney Saturday 14th August
@@ -41,8 +41,9 @@ This interactive presentation will include opportunities for the audience to exp
 [7:00pm @ Queensland Multicultural Centre, Kangaroo Point](https://www.trybooking.com/BRWVR)
 <br />
 ### Adelaide Friday 20th August
-7:00pm @ Star Theatres, Hilton
-![Science at the Edge of Consciousness 2021](EoC_Poster_AllCities.png)
+[7:00pm @ Star Theatres, Hilton](https://www.trybooking.com/BRZFK)
+
+[![Science at the Edge of Consciousness 2021](EoC_Poster_AllCities.png)](https://www.facebook.com/wowotherworldevents)
 <br /><br />
 
 ### **Photos from Science at the Edge of Consciousness 2019**
