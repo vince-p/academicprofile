@@ -1,4 +1,5 @@
 #adapted from https://lbusett.netlify.com/post/automatically-importing-publications-from-bibtex-to-a-hugo-academic-blog/
+# Need a better way of cleaning escape characters
 
 bibfile <- "c:/bib/papers.bib"
 out_fold   <- "content/publication"
@@ -20,6 +21,8 @@ bibtex_2academic <- function(bibfile,
 
     #code to remove bibTex and text formatting errors
     mypubs$title<-gsub("[{}]", "", mypubs$title)
+    mypubs$journal<-gsub('\\', '', mypubs$journal, fixed=TRUE)
+    mypubs$journal<-gsub('textendash ', '-', mypubs$journal)
     mypubs$abstract<-gsub("[{}]", "", mypubs$abstract)
     mypubs$booktitle<-gsub("[{}]", "", mypubs$booktitle)
     mypubs$author<-gsub("[{}]", "", mypubs$author)
