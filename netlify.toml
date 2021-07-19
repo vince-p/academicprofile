@@ -8,7 +8,7 @@
   TZ='Australia/Sydney'
 
 [context.production.environment]
-  HUGO_ENV = "production --buildFuture"
+  HUGO_ENV = "production"
 
 [context.deploy-preview]
   command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL"
