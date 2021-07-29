@@ -1,5 +1,5 @@
 ---
-title: "Talking microdosing"
+title: "Microdosing and personality"
 summary: ABC Radio Sydney
 tags:
  - radio
