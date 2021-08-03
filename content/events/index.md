@@ -13,6 +13,8 @@ header:
   caption: "Art by Ramin Nazer"
   image: "1600x400_NarrowBanner.png"
 ---
+# **_{{< span style="color:FireBrick;" text="*** POSTPONED New dates to be announced soon*** " >}}_**
+
 ![EOC](water.jpg)
 ## **Otherworldly Events and Dr Vince Polito present**
 # **Science at the Edge of Consciousness**
@@ -28,23 +30,9 @@ We will explore how meditation can change our senses, test whether hypnotic sugg
 This interactive presentation will include opportunities for the audience to experience and compare some consciousness altering technologies.
 [![Otherworldly Events](logo_200.png)](https://www.facebook.com/wowotherworldevents)
 
-## **Science at the Edge of Consciousness will be presented around Australia during National Science Week:**
-
-### Sydney Saturday 14th August
-[5:00pm @The Comedy Store, Moore Park](https://aucentury.sales.ticketsearch.com/sales/salesevent/12320
-)
+## **New dates for Science at the Edge of Consciousness will be announced soon.**
 <br />
-### Melbourne Wednesday 18th August
-[7:00pm @ Howler, Brunswick](https://moshtix.com.au/v2/event/science-at-the-edge-of-consciousness-national-science-week-2021/129125?skin=hwlr)
 <br />
-### Brisbane Thursday 19th August
-[7:00pm @ Queensland Multicultural Centre, Kangaroo Point](https://www.trybooking.com/BRWVR)
-<br />
-### Adelaide Friday 20th August
-[7:00pm @ Star Theatres, Hilton](https://www.trybooking.com/BRZFK)
-
-[![Science at the Edge of Consciousness 2021](EoC_Poster_AllCities.png)](https://www.facebook.com/wowotherworldevents)
-<br /><br />
 
 ### **Photos from Science at the Edge of Consciousness 2019**
 {{< gallery album="photos" >}}

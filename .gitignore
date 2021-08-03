@@ -1,8 +1,8 @@
 # IDEs
 .idea/
+.Rproj.user
+.Rhistory
 
 # Hugo
 resources/
 public/
-.Rproj.user
-.Rhistory

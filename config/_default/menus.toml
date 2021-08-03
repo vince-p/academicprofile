@@ -30,7 +30,7 @@
 
   [[main]]
   name = "Events"
-  url = "/eoc"
+  url = "/events"
   weight = 50
 
 [[main]]
