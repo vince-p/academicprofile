@@ -2,10 +2,10 @@
 title: "A new study looking at the brains of microdosers"
 summary: ABC Digital
 tags:
- - radio
+ - news
  - recent
 date: 2021-07-29
-external_link: https://soundcloud.com/user-441363701/abc-radio-sydney-psychedelic-microdosing-investigated-for-pharmacological-effect-on-the-brain
+external_link: https://www.abc.net.au/news/2021-07-29/microdosing-study-macquarie-university-psychedelics/100324706
 image:
   focal_point: "Center"
 ---
