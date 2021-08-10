@@ -13,7 +13,7 @@ header:
   caption: "Art by Ramin Nazer"
   image: "1600x400_NarrowBanner.png"
 ---
-# **_{{< span style="color:FireBrick;" text="*** POSTPONED New dates to be announced soon*** " >}}_**
+# **_{{< span style="color:FireBrick;" text="*** New Sydney date below. Other cities to be announced soon*** " >}}_**
 
 ![EOC](water.jpg)
 ## **Otherworldly Events and Dr Vince Polito present**
@@ -30,9 +30,14 @@ We will explore how meditation can change our senses, test whether hypnotic sugg
 This interactive presentation will include opportunities for the audience to experience and compare some consciousness altering technologies.
 [![Otherworldly Events](logo_200.png)](https://www.facebook.com/wowotherworldevents)
 
-## **New dates for Science at the Edge of Consciousness will be announced soon.**
+## New dates for Science at the Edge of Consciousness:
+### Sydney Tursday 25th November
+[7:00pm @The Comedy Store, Moore Park](https://aucentury.sales.ticketsearch.com/sales/salesevent/12320)
 <br />
 <br />
-
+Additional dates will be announced soon.
+<br />
+<br />
+<br />
 ### **Photos from Science at the Edge of Consciousness 2019**
 {{< gallery album="photos" >}}

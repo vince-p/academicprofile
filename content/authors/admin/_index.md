@@ -73,7 +73,7 @@ My work has been profiled by [Buzzfeed,](https://www.buzzfeed.com/elfyscott/were
 
 ----
 
-**This August I will be presenting a public lecture -- [*Science at the Edge of Consciousness*](/events) -- around Australia during National Science Week**
+**This ~~August~~ November I will be presenting a public lecture -- [*Science at the Edge of Consciousness*](/events) -- around Australia as part National Science Week**
 
 ----
 
