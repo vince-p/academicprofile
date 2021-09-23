@@ -13,7 +13,7 @@ header:
   caption: "Art by Ramin Nazer"
   image: "1600x400_NarrowBanner.png"
 ---
-# **_{{< span style="color:FireBrick;" text="*** New Sydney date below. Other cities to be announced soon*** " >}}_**
+## **_{{< span style="color:FireBrick;" text="*** New dates now listed below. *** " >}}_**
 
 ![EOC](water.jpg)
 ## **Otherworldly Events and Dr Vince Polito present**
@@ -31,11 +31,11 @@ This interactive presentation will include opportunities for the audience to exp
 [![Otherworldly Events](logo_200.png)](https://www.facebook.com/wowotherworldevents)
 
 ## New dates for Science at the Edge of Consciousness:
-### Sydney Tursday 25th November
+### Melbourne Wednesday 24th November
+7:00pm @Howler, Moore Park
+<br />
+### Sydney Thursday 25th November
 [7:00pm @The Comedy Store, Moore Park](https://aucentury.sales.ticketsearch.com/sales/salesevent/12320)
-<br />
-<br />
-Additional dates will be announced soon.
 <br />
 <br />
 <br />
