@@ -32,7 +32,7 @@ This interactive presentation will include opportunities for the audience to exp
 
 ## New dates for Science at the Edge of Consciousness:
 ### Melbourne Wednesday 24th November
-[6:30pm @Howler, Moore Park](https://moshtix.com.au/v2/event/science-at-the-edge-of-consciousness-national-science-week-2021/129125?skin=hwlr)<br>
+[6:30pm @Howler, Brunswick](https://moshtix.com.au/v2/event/science-at-the-edge-of-consciousness-national-science-week-2021/129125?skin=hwlr)<br>
 [FB link](https://www.facebook.com/events/1029304927885134)
 <br />
 ### Sydney Thursday 25th November
