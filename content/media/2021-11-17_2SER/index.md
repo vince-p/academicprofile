@@ -1,6 +1,6 @@
 ---
 title: "Science at the Edge of Consciousness"
-summary: t2SER
+summary: 2SER
 tags:
  - radio
  - recent
