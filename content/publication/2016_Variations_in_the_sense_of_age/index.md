@@ -1,5 +1,5 @@
 +++
-title = "Variations in the sense of agency during hypnotic responding:  insights from latent profile analysis"
+title = "Variations in the Sense of Agency during Hypnotic Responding:  Insights from Latent Profile Analysis"
 date = "2016-11-01"
 authors = ["Devin B. Terhune", "Vince Polito", "Amanda J. Barnier", "Erik Z. Woody"]
 publication_types = ["2"]

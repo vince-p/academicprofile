@@ -66,7 +66,7 @@ bibtex_2academic <- function(bibfile,
     mypubs$oldfile<-gsub("\\\\\\\\","/",mypubs$oldfile)
 
     #clear out NAs in language (as this will be used to mark selected pubs)
-    mypubs$language[is.na(mypubs$language)]<-""
+    mypubs$langid[is.na(mypubs$langid)]<-""
 
     if (is.na(mypubs$year)) {
         mypubs$year <- 2999
@@ -143,7 +143,7 @@ bibtex_2academic <- function(bibfile,
             write("image_preview = \"\"", fileConn, append = T)
 
             # If a zotero record has the language set as "X", then mark this as a Selected Output
-            if (x[["language"]]=="X") {
+            if (x[["langid"]]=="X") {
                 write("featured = true", fileConn, append = T)
             } else {
                 write("featured = false", fileConn, append = T)
