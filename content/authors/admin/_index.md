@@ -67,4 +67,5 @@ I'm a Senior Research Fellow in the [School of Psychological Sciences](https://w
 
 My research focuses on developing measures of how our sense of self changes in different contexts, clinical conditions, and altered states of consciousness.
 
-My work has been profiled by [Buzzfeed,](https://www.buzzfeed.com/elfyscott/were-starting-to-learn-some-incredible-things-about-hypnosis) [Nine News,](https://www.nine.com.au/entertainment/viral/virtual-reality-science-research/30bfd41f-d256-44f7-9744-d9a3a5a18e6a) [ABC News24](https://www.youtube.com/watch?v=J0OhYzOo47k&feature=youtu.be) and [many others.](#media)
+My work has been profiled by [Buzzfeed,](https://www.buzzfeed.com/elfyscott/were-starting-to-learn-some-incredible-things-about-hypnosis) [Nine News,](https://www.9news.com.au/national/macquarie-university-trial-depression-psilocybin-active-ingredient-magic-mushrooms-antidepressant/dea89499-8327-4f44-8eea-5b692aeadc7e
+) [ABC News24](https://www.youtube.com/watch?v=J0OhYzOo47k&feature=youtu.be) and [many others.](#media)
