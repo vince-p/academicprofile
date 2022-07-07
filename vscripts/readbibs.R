@@ -21,15 +21,16 @@ abstract=TRUE
   z <- ReadZotero(user = "4226", .params = list(collection = "QIKM8IVA", key = "76GElUBWjuYxOPpdBzm5jSeX", limit=200),delete.file = TRUE)
   # clean paper titles
   z$title<-gsub("[{}]", "", z$title)
-  zframe <- as.data.frame(z)
+  zframe <- select(as.data.frame(z), -abstract)
 
 
     # Import the local bibtex file and convert to data.frame
     l   <- ReadBib(bibfile, check = "warn", .Encoding = "UTF-8")
     # clean paper titles
     l$title<-gsub("[{}]", "", l$title)
-    # select only title and files
-    lframe <- select(as.data.frame(l),title,file)
+    # select only title and files and abstract
+    # for an unknown reason the local abstract handles special characters better
+    lframe <- select(as.data.frame(l),title,file,abstract)
 
     #join dataframes to get nice formatting from zotero + filenames from local
     mypubs <- left_join(zframe,lframe)
@@ -43,6 +44,10 @@ abstract=TRUE
     mypubs$abstract<-gsub("\\\\", "", mypubs$abstract)
     mypubs$abstract<-gsub("\n", " ", mypubs$abstract)
     mypubs$abstract<-gsub('textendash ', '-', mypubs$abstract)
+
+
+    # manually recode long author list for many-analysts project
+    mypubs[mypubs$title == "A many-analysts approach to the relation between religiosity and well-being",]$author <- "Suzanne Hoogeveen and Alexandra Sarafoglou and Balazs Aczel ... and Vince Polito et al."
 
     #correct missing month
     mypubs$month[is.na(mypubs$month)]<-"jan"
