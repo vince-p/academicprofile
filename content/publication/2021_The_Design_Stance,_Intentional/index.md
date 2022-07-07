@@ -1,5 +1,5 @@
 +++
-title = "The Design Stance, Intentional Stance, and Teleological Beliefs about Biological and Nonbiological Natural Entities"
+title = "The design stance, intentional stance, and teleological beliefs about biological and nonbiological natural entities"
 date = "2021-06-01"
 authors = ["Andrew J. Roberts", "Simon J. Handley", "Vince Polito"]
 publication_types = ["2"]

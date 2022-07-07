@@ -1,5 +1,5 @@
 # This file opens a csv with all media items and converts to hugo-academic projects
-# This script uses the custom /content/media folder (A slightly customkised projects/portfolio template).
+# This script uses the custom /content/media folder (A slightly customised projects/portfolio template).
 
 library(stringi)
 

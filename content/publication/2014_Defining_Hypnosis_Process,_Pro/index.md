@@ -1,5 +1,5 @@
 +++
-title = "Defining Hypnosis: Process, Product, and the Value of Tolerating Ambiguity"
+title = "Defining hypnosis: Process, product, and the value of tolerating ambiguity"
 date = "2014-03-01"
 authors = ["Vince Polito", "Amanda J. Barnier", "Kevin M. McConkey"]
 publication_types = ["2"]
@@ -9,7 +9,7 @@ abstract = "NA"
 summary = ""
 image_preview = ""
 featured = false
-projects = []
+projects = ['AlteredStates']
 tags = []
 url_pdf = ""
 url_preprint = ""

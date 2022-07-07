@@ -1,5 +1,5 @@
 +++
-title = "SoCog: Manual for Mental-State Reasoning and Emotion Recognition Training. Sydney: Macquarie University"
+title = "SoCog: Manual for mental-state reasoning and emotion recognition training. Sydney: Macquarie University"
 date = "2013-01-01"
 authors = ["Pamela Marsh", "Jonathan McGuire", "Vince Polito", "B. Lee", "Robyn Langdon", "Thushara Anandakumar", "Jilly Atwell", "Gemma Luckett", "Anna Surev", "Anthony Harris", "Max Coltheart"]
 publication_types = ["5"]
@@ -9,7 +9,7 @@ abstract = "NA"
 summary = ""
 image_preview = ""
 featured = false
-projects = []
+projects = ['SelfRep']
 tags = []
 url_pdf = ""
 url_preprint = ""

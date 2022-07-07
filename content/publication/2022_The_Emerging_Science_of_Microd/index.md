@@ -1,5 +1,5 @@
 +++
-title = "The Emerging Science of Microdosing: A Systematic Review of Research on Low Dose Psychedelics (1955 \textendash 2021) and Recommendations for the Field"
+title = "The emerging science of microdosing: A systematic review of research on low dose psychedelics (1955 - 2021) and recommendations for the field"
 date = "2022-05-01"
 authors = ["Vince Polito", "Paul Liknaitzky"]
 publication_types = ["2"]
@@ -9,7 +9,7 @@ abstract = "The use of low doses of psychedelic substances (microdosing) is attr
 summary = ""
 image_preview = ""
 featured = false
-projects = []
+projects = ['Microdosing']
 tags = []
 url_pdf = ""
 url_preprint = ""

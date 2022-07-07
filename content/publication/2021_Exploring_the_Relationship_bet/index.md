@@ -1,5 +1,5 @@
 +++
-title = "Exploring the Relationship between Microdosing, Personality and Emotional Insight: A Prospective Study"
+title = "Exploring the relationship between microdosing, personality and emotional insight: A prospective study"
 date = "2021-03-01"
 authors = ["Hannah M. Dressler", "Stephen J. Bright", "Vince Polito"]
 publication_types = ["2"]

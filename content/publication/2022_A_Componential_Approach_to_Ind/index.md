@@ -1,5 +1,5 @@
 +++
-title = "A Componential Approach to Individual Differences in Hypnotizability."
+title = "A componential approach to individual differences in hypnotizability."
 date = "2022-01-01"
 authors = ["Amanda J. Barnier", "Devin B. Terhune", "Vince Polito", "Erik Z. Woody"]
 publication_types = ["2"]

@@ -1,5 +1,5 @@
 +++
-title = "Delusions in the Hypnosis Laboratory:  Modeling Different Pathways to Mirrored-Self Misidentification"
+title = "Delusions in the hypnosis laboratory:  Modeling different pathways to mirrored-self misidentification"
 date = "2014-01-01"
 authors = ["Michael Connors", "Amanda Barnier", "Robyn Langdon", "Robyn Cox", "Vince Polito", "Max Coltheart"]
 publication_types = ["2"]
@@ -9,7 +9,7 @@ abstract = "NA"
 summary = ""
 image_preview = ""
 featured = false
-projects = []
+projects = ['AlteredStates']
 tags = []
 url_pdf = ""
 url_preprint = ""

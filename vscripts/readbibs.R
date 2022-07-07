@@ -4,34 +4,45 @@
 bibfile <- "c:/bib/papers.bib"
 out_fold   <- "content/publication"
 
-bibtex_2academic <- function(bibfile,
-                             outfold,
-                             abstract = FALSE,
-                             overwrite = TRUE) {
-    pacman::p_load(pacman)
-    p_load(RefManageR)
-    p_load(dplyr)
-    p_load(stringr)
-    p_load(anytime)
-    p_load(lubridate)
+pacman::p_load(pacman)
+p_load(RefManageR)
+p_load(dplyr)
+p_load(stringr)
+p_load(anytime)
+p_load(lubridate)
 
-    # Import the bibtex file and convert to data.frame
-    mypubs   <- ReadBib(bibfile, check = "warn", .Encoding = "UTF-8") %>%
-        as.data.frame()
+# settings
+overwrite=TRUE
+abstract=TRUE
+
+  # read refs from zotero
+  # collection found from the URL in the zotero web interface
+  # api and username from zotero settings
+  z <- ReadZotero(user = "4226", .params = list(collection = "QIKM8IVA", key = "76GElUBWjuYxOPpdBzm5jSeX", limit=200),delete.file = TRUE)
+  # clean paper titles
+  z$title<-gsub("[{}]", "", z$title)
+  zframe <- as.data.frame(z)
+
+
+    # Import the local bibtex file and convert to data.frame
+    l   <- ReadBib(bibfile, check = "warn", .Encoding = "UTF-8")
+    # clean paper titles
+    l$title<-gsub("[{}]", "", l$title)
+    # select only title and files
+    lframe <- select(as.data.frame(l),title,file)
+
+    #join dataframes to get nice formatting from zotero + filenames from local
+    mypubs <- left_join(zframe,lframe)
 
     #code to remove bibTex and text formatting errors
-    mypubs$title<-gsub("[{}]", "", mypubs$title)
     mypubs$journal<-gsub('\\', '', mypubs$journal, fixed=TRUE)
-    mypubs$journal<-gsub('textendash ', '-', mypubs$journal)
-    mypubs$abstract<-gsub("[{}]", "", mypubs$abstract)
     mypubs$booktitle<-gsub("[{}]", "", mypubs$booktitle)
-    mypubs$author<-gsub("[{}]", "", mypubs$author)
-    mypubs$author<-gsub("Ã¡", "a", mypubs$author)
-    mypubs$author<-gsub("KÃ¶ltÅ‘", "Kolto", mypubs$author)
-    mypubs$author<-gsub("Ã§", "c", mypubs$author)
+    mypubs$author<-gsub("[{}=]", "", mypubs$author)
+    mypubs$abstract<-gsub("[{}]", "", mypubs$abstract)
     mypubs$abstract<-gsub('"', "'", mypubs$abstract)
     mypubs$abstract<-gsub("\\\\", "", mypubs$abstract)
     mypubs$abstract<-gsub("\n", " ", mypubs$abstract)
+    mypubs$abstract<-gsub('textendash ', '-', mypubs$abstract)
 
     #correct missing month
     mypubs$month[is.na(mypubs$month)]<-"jan"
@@ -66,7 +77,7 @@ bibtex_2academic <- function(bibfile,
     mypubs$oldfile<-gsub("\\\\\\\\","/",mypubs$oldfile)
 
     #clear out NAs in language (as this will be used to mark selected pubs)
-    mypubs$langid[is.na(mypubs$langid)]<-""
+    mypubs$language[is.na(mypubs$language)]<-""
 
     if (is.na(mypubs$year)) {
         mypubs$year <- 2999
@@ -143,7 +154,7 @@ bibtex_2academic <- function(bibfile,
             write("image_preview = \"\"", fileConn, append = T)
 
             # If a zotero record has the language set as "X", then mark this as a Selected Output
-            if (x[["langid"]]=="X") {
+            if (x[["language"]]=="X") {
                 write("featured = true", fileConn, append = T)
             } else {
                 write("featured = false", fileConn, append = T)
@@ -184,12 +195,3 @@ bibtex_2academic <- function(bibfile,
     # apply the "create_md" function over the publications list to generate
     # the different "md" files.
     apply(mypubs, FUN = function(x) create_md(x), MARGIN = 1)
-}
-
-
-
-
-bibtex_2academic(bibfile  = bibfile,
-                 outfold   = out_fold,
-                 abstract  = TRUE)
-

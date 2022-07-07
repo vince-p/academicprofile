@@ -1,5 +1,5 @@
 +++
-title = "Teleology and the Intentions of Supernatural Agents"
+title = "Teleology and the intentions of supernatural agents"
 date = "2020-04-01"
 authors = ["Andrew J. Roberts", "Colin A. Wastell", "Vince Polito"]
 publication_types = ["2"]

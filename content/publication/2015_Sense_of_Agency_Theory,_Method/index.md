@@ -1,5 +1,5 @@
 +++
-title = "Sense of Agency: Theory, Methods, and Application"
+title = "Sense of agency: Theory, methods, and application"
 date = "2015-01-01"
 authors = ["Vince Polito", "Flavie Waters", "Doris McIlwain"]
 publication_types = ["2"]
@@ -9,7 +9,7 @@ abstract = "Sense of agency is an area of growing research interest with importa
 summary = ""
 image_preview = ""
 featured = false
-projects = ['(c) 2015 APA, all rights reserved']
+projects = ['SelfRep']
 tags = []
 url_pdf = ""
 url_preprint = ""
