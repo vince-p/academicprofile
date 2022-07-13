@@ -1,6 +1,7 @@
 +++
 title = "The emerging science of microdosing: A systematic review of research on low dose psychedelics (1955-2021) and recommendations for the field"
 date = "2022-08-01"
+publishdate = "2000-01-01"
 authors = ["Vince Polito", "Paul Liknaitzky"]
 publication_types = ["2"]
 publication = "Neuroscience & Biobehavioral Reviews, (139), _pp. 104706_, https://doi.org/10.1016/j.neubiorev.2022.104706"
