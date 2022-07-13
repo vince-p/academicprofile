@@ -11,6 +11,11 @@ p_load(stringr)
 p_load(anytime)
 p_load(lubridate)
 
+# Remove existing directories
+junk <- list.dirs(out_fold,recursive = FALSE) # https://www.geeksforgeeks.org/obtain-list-of-directories-in-r/
+unlink(junk, recursive = TRUE)
+
+
 # settings
 overwrite=TRUE
 abstract=TRUE
@@ -28,6 +33,7 @@ abstract=TRUE
     l   <- ReadBib(bibfile, check = "warn", .Encoding = "UTF-8")
     # clean paper titles
     l$title<-gsub("[{}]", "", l$title)
+    #l$title<-gsub("â€“", "-", l$title) # PROBLEM WITH HYPHENS. NEED TO MANUALLY EDIT RECORDS IN ZOTERO :(
     # select only title and files and abstract
     # for an unknown reason the local abstract handles special characters better
     lframe <- select(as.data.frame(l),title,file,abstract)
