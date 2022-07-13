@@ -1,6 +1,7 @@
 +++
 title = "Changes in the sense of agency during hypnosis: The Hungarian version of the Sense of Agency Rating Scale (SOARS-HU) and its relationship with phenomenological aspects of consciousness"
 date = "2017-03-01"
+publishdate = "2000-01-01"
 authors = ["Andras Kolto", "Vince Polito"]
 publication_types = ["2"]
 publication = "Consciousness and Cognition, (49), _pp. 245--254_, https://doi.org/10.1016/j.concog.2017.02.009"

@@ -1,6 +1,7 @@
 +++
 title = "Visual body-size adaptation and estimation of tactile distance"
 date = "2021-04-01"
+publishdate = "2000-01-01"
 authors = ["Regine Zopf", "Veronika Kosourkhina", "Kevin R. Brooks", "Vince Polito", "Ian D. Stephen"]
 publication_types = ["2"]
 publication = "British Journal of Psychology, https://doi.org/10.1111/bjop.12514"

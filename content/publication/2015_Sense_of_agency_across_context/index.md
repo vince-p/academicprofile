@@ -1,6 +1,7 @@
 +++
 title = "Sense of agency across contexts: Insights from schizophrenia and hypnosis"
 date = "2015-07-01"
+publishdate = "2000-01-01"
 authors = ["Vince Polito", "Robyn Langdon", "Amanda J. Barnier"]
 publication_types = ["2"]
 publication = "Psychology of Consciousness: Theory, Research, and Practice, (2), 3, _pp. 301--314_, https://doi.org/10.1037/cns0000053"

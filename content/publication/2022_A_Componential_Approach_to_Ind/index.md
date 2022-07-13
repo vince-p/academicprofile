@@ -1,6 +1,7 @@
 +++
 title = "A componential approach to individual differences in hypnotizability."
 date = "2022-01-01"
+publishdate = "2000-01-01"
 authors = ["Amanda J. Barnier", "Devin B. Terhune", "Vince Polito", "Erik Z. Woody"]
 publication_types = ["2"]
 publication = "Psychology of Consciousness: Theory, Research, and Practice, (9), 2, _pp. 130--140_, https://doi.org/10.1037/cns0000267"

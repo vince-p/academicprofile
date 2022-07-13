@@ -1,6 +1,7 @@
 +++
 title = "Meditation and auditory attention: An ERP study of meditators and non-meditators"
 date = "2016-11-01"
+publishdate = "2000-01-01"
 authors = ["Britta Biedermann", "Peter de Lissa", "Yatin Mahajan", "Vince Polito", "Nicolas Badcock", "Michael H. Connors", "Lena Quinto", "Linda Larsen", "Genevieve McArthur"]
 publication_types = ["2"]
 publication = "International Journal of Psychophysiology, (109), _pp. 63--70_, https://doi.org/10.1016/j.ijpsycho.2016.09.016"

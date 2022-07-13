@@ -1,6 +1,7 @@
 +++
 title = "Hypnotherapy for procedural pain, itch, and state anxiety in children with acute burns: a feasibility and acceptability study protocol"
 date = "2022-03-01"
+publishdate = "2000-01-01"
 authors = ["Dali Geagea", "Bronwyn Griffin", "Roy Kimble", "Vince Polito", "Devin B. Terhune", "Zephanie Tyack"]
 publication_types = ["2"]
 publication = "Pilot and Feasibility Studies, (8), 1, _pp. 58_, https://doi.org/10.1186/s40814-022-01017-z"

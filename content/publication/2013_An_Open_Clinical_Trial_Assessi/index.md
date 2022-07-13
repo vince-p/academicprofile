@@ -1,6 +1,7 @@
 +++
 title = "An open clinical trial assessing a novel training program for social cognitive impairment in schizophrenia"
 date = "2013-04-01"
+publishdate = "2000-01-01"
 authors = ["Pamela Marsh", "Robyn Langdon", "Jonathan McGuire", "Anthony Harris", "Vince Polito", "Max Coltheart"]
 publication_types = ["2"]
 publication = "Australasian Psychiatry, (21), 2, _pp. 122--126_, https://doi.org/10.1177/1039856213475683"

@@ -1,6 +1,7 @@
 +++
 title = "Adults who microdose psychedelics report health related motivations and lower levels of anxiety and depression compared to non-microdosers"
 date = "2021-11-01"
+publishdate = "2000-01-01"
 authors = ["Joseph M. Rootman", "Pamela Kryskow", "Kalin Harvey", "Paul Stamets", "Eesmyal Santos-Brault", "Kim P. C. Kuypers", "Vince Polito", "Francoise Bourzat", "Zach Walsh"]
 publication_types = ["2"]
 publication = "Scientific Reports, (11), 1, _pp. 22479_, https://doi.org/10.1038/s41598-021-01811-4"

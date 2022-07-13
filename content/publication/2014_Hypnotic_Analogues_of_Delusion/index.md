@@ -1,6 +1,7 @@
 +++
 title = "Hypnotic analogues of delusions: The role of delusion proneness and schizotypy"
 date = "2014-01-01"
+publishdate = "2000-01-01"
 authors = ["Michael H. Connors", "Peter W. Halligan", "Amanda J. Barnier", "Robyn Langdon", "Rochelle E. Cox", "Jocelyn Elliott", "V Polito", "Max Coltheart"]
 publication_types = ["2"]
 publication = "Personality and Individual Differences, (57), _pp. 48--53_, https://doi.org/10.1016/j.paid.2013.09.012"

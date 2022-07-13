@@ -1,6 +1,7 @@
 +++
 title = "Topic modeling reveals distinct interests within an online conspiracy forum"
 date = "2018-02-01"
+publishdate = "2000-01-01"
 authors = ["Colin Klein", "Peter Clutton", "Vince Polito"]
 publication_types = ["2"]
 publication = "Frontiers in Psychology, (9), _pp. 189_, https://doi.org/10.3389/fpsyg.2018.00189"

@@ -1,6 +1,7 @@
 +++
 title = "Variations in the sense of agency during hypnotic responding:  insights from latent profile analysis"
 date = "2016-11-01"
+publishdate = "2000-01-01"
 authors = ["Devin B. Terhune", "Vince Polito", "Amanda J. Barnier", "Erik Z. Woody"]
 publication_types = ["2"]
 publication = "Psychology of Consciousness: Theory, Research, and Practice, (3), 4, _pp. 293--302_, https://doi.org/10.1037/cns0000107"

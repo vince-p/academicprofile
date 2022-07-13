@@ -1,6 +1,7 @@
 +++
 title = "Creative destruction in science"
 date = "2020-11-01"
+publishdate = "2000-01-01"
 authors = ["Warren Tierney", "Jay H. Hardy", "Charles R. Ebersole", "Keith Leavitt", "Domenico Viganola", "Elena Giulia Clemente", "Michael Gordon", "Anna Dreber", "Magnus Johannesson", "Thomas Pfeiffer", "Hiring Decisions Forecasting Collaboration", "Eric Luis Uhlmann"]
 publication_types = ["2"]
 publication = "Organizational Behavior and Human Decision Processes, (161), _pp. 291--309_, https://doi.org/10.1016/j.obhdp.2020.07.002"

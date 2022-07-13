@@ -1,6 +1,7 @@
 +++
 title = "Rhythmic Chanting and Mystical States Across Traditions"
 date = "2021-01-01"
+publishdate = "2000-01-01"
 authors = ["Gemma Perry", "Vince Polito", "William Forde Thompson"]
 publication_types = ["2"]
 publication = "Brain Sciences, (11), 1, _pp. 101_, https://doi.org/10.3390/brainsci11010101"

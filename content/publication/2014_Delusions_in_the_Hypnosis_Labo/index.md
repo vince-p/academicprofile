@@ -1,6 +1,7 @@
 +++
 title = "Delusions in the hypnosis laboratory:  Modeling different pathways to mirrored-self misidentification"
 date = "2014-01-01"
+publishdate = "2000-01-01"
 authors = ["Michael Connors", "Amanda Barnier", "Robyn Langdon", "Robyn Cox", "Vince Polito", "Max Coltheart"]
 publication_types = ["2"]
 publication = "Psychology of Consciousness: Theory, Research, and Practice, (1), 2, _pp. 184--198_, https://doi.org/10.1037/css0000001"

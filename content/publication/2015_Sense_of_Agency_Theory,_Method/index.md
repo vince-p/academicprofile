@@ -1,6 +1,7 @@
 +++
 title = "Sense of agency: Theory, methods, and application"
 date = "2015-01-01"
+publishdate = "2000-01-01"
 authors = ["Vince Polito", "Flavie Waters", "Doris McIlwain"]
 publication_types = ["2"]
 publication = "Psychology of Consciousness: Theory, Research, and Practice, (2), 3, _pp. 207--209_, https://doi.org/10.1037/cns0000073"

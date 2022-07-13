@@ -1,6 +1,7 @@
 +++
 title = "Do nonword reading tests for children measure what we want them to? An analysis of year 2 error responses"
 date = "2018-07-01"
+publishdate = "2000-01-01"
 authors = ["Anne Castles", "Vince Polito", "Stephen Pritchard", "Thushara Anandakumar", "Max Coltheart"]
 publication_types = ["2"]
 publication = "Australian Journal of Learning Difficulties, (23), 2, _pp. 153--165_, https://doi.org/10/gfs2qt"

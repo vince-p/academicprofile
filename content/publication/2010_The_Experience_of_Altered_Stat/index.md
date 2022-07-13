@@ -1,6 +1,7 @@
 +++
 title = "The experience of altered states of consciousness in shamanic ritual: The role of pre-existing beliefs and affective factors"
 date = "2010-12-01"
+publishdate = "2000-01-01"
 authors = ["Vince Polito", "Robyn Langdon", "Jac Brown"]
 publication_types = ["2"]
 publication = "Consciousness and Cognition, (19), 4, _pp. 918--925_, https://doi.org/10.1016/j.concog.2010.05.013"

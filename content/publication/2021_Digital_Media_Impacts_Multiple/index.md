@@ -1,6 +1,7 @@
 +++
 title = "Digital media impacts multiple aspects of self-representation: An investigation of flow, agency, presence, character identification, and time perception"
 date = "2021-01-01"
+publishdate = "2000-01-01"
 authors = ["Vince Polito", "Michael Hitchens"]
 publication_types = ["2"]
 publication = "Psychology of Popular Media, (10), 3, _pp. 303--318_, https://doi.org/10.1037/ppm0000330"

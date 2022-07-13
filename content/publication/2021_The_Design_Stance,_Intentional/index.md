@@ -1,6 +1,7 @@
 +++
 title = "The design stance, intentional stance, and teleological beliefs about biological and nonbiological natural entities"
 date = "2021-06-01"
+publishdate = "2000-01-01"
 authors = ["Andrew J. Roberts", "Simon J. Handley", "Vince Polito"]
 publication_types = ["2"]
 publication = "Journal of Personality and Social Psychology, (120), 6, _pp. 1720--1748_, https://doi.org/10.1037/pspp0000383"

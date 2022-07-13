@@ -1,6 +1,7 @@
 +++
 title = "Willed action in schizophrenia"
 date = "2007-03-01"
+publishdate = "2000-01-01"
 authors = ["Robyn Langdon", "Jen McLaren", "Vince Polito", "Max Coltheart", "Philip B. Ward"]
 publication_types = ["2"]
 publication = "Psychiatry Research, (150), 2, _pp. 193--197_, https://doi.org/10.1016/j.psychres.2006.03.027"

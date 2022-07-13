@@ -1,6 +1,7 @@
 +++
 title = "A many-analysts approach to the relation between religiosity and well-being"
 date = "2022-07-01"
+publishdate = "2000-01-01"
 authors = ["Suzanne Hoogeveen", "Alexandra Sarafoglou", "Balazs Aczel ...", "Vince Polito et al."]
 publication_types = ["2"]
 publication = "Religion, Brain & Behavior, (0), 0, _pp. 1--47_, https://doi.org/10.1080/2153599X.2022.2070255"

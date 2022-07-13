@@ -1,6 +1,7 @@
 +++
 title = "Uncontrolled logic: intuitive sensitivity to logical structure in random responding"
 date = "2022-01-01"
+publishdate = "2000-01-01"
 authors = ["Stephanie Howarth", "Simon Handley", "Vince Polito"]
 publication_types = ["2"]
 publication = "Thinking & Reasoning, (28), 1, _pp. 61--96_, https://doi.org/10.1080/13546783.2021.1934119"

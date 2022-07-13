@@ -1,6 +1,7 @@
 +++
 title = "Belief, delusion, hypnosis, and the right dorsolateral prefrontal cortex: a transcranial magnetic stimulation study"
 date = "2018-01-01"
+publishdate = "2000-01-01"
 authors = ["Max Coltheart", "Rochelle Cox", "Paul Sowman", "Hannah Morgan", "Amanda Barnier", "Robyn Langdon", "Emily Connaughton", "Lina Teichmann", "Nikolas Williams", "Vince Polito"]
 publication_types = ["2"]
 publication = "Cortex, (101), _pp. 234--248_, https://doi.org/10.1016/j.cortex.2018.01.001"

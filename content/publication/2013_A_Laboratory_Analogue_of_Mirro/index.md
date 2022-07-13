@@ -1,6 +1,7 @@
 +++
 title = "A laboratory analogue of mirrored-self misidentification delusion: The role of hypnosis, suggestion, and demand characteristics"
 date = "2013-12-01"
+publishdate = "2000-01-01"
 authors = ["Michael H. Connors", "Amanda J. Barnier", "Robyn Langdon", "Rochelle E. Cox", "V. Polito", "Max Coltheart"]
 publication_types = ["2"]
 publication = "Consciousness and Cognition, (22), 4, _pp. 1510--1522_, https://doi.org/10.1016/j.concog.2013.10.006"

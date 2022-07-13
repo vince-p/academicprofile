@@ -1,6 +1,7 @@
 +++
 title = "Exploring the relationship between microdosing, personality and emotional insight: A prospective study"
 date = "2021-03-01"
+publishdate = "2000-01-01"
 authors = ["Hannah M. Dressler", "Stephen J. Bright", "Vince Polito"]
 publication_types = ["2"]
 publication = "Journal of Psychedelic Studies, (5), 1, _pp. 9--16_, https://doi.org/10.1556/2054.2021.00157"

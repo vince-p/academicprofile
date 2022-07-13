@@ -1,6 +1,7 @@
 +++
 title = "Hypnotic clever hands: Agency and automatic responding."
 date = "2018-06-01"
+publishdate = "2000-01-01"
 authors = ["Vince Polito", "Amanda J. Barnier", "Michael H. Connors"]
 publication_types = ["2"]
 publication = "Journal of Experimental Psychology: General, (147), 6, _pp. 815--828_, https://doi.org/10.1037/xge0000451"

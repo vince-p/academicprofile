@@ -1,6 +1,7 @@
 +++
 title = "A systematic study of microdosing psychedelics"
 date = "2019-02-01"
+publishdate = "2000-01-01"
 authors = ["Vince Polito", "Richard J. Stevenson"]
 publication_types = ["2"]
 publication = "PLOS ONE, (14), 2, _pp. e0211023_, https://doi.org/10.1371/journal.pone.0211023"

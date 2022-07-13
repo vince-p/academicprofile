@@ -120,6 +120,7 @@ abstract=TRUE
             write(paste0("title = \"", x[["title"]], "\""), fileConn, append = T)
             #use lubridate function to parse month and year fields into date
             write(paste0("date = \"", dmy(paste(01,x[["month"]],x[["year"]],sep="-")), "\""), fileConn, append = T)
+            write(paste0("publishdate = \"2000-01-01\""),fileConn, append = T)
 
             # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
             auth_hugo <- str_replace_all(x["author"], " and ", "\", \"")

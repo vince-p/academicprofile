@@ -1,6 +1,7 @@
 +++
 title = "Developing the Sense of Agency Rating Scale (SOARS): An empirical measure of agency disruption in hypnosis"
 date = "2013-09-01"
+publishdate = "2000-01-01"
 authors = ["Vince Polito", "Amanda J. Barnier", "Erik Z. Woody"]
 publication_types = ["2"]
 publication = "Consciousness and Cognition, (22), 3, _pp. 684--696_, https://doi.org/10.1016/j.concog.2013.04.003"

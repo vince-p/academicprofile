@@ -1,6 +1,7 @@
 +++
 title = "Measuring agency change across the domain of hypnosis"
 date = "2014-01-01"
+publishdate = "2000-01-01"
 authors = ["Vince Polito", "Amanda J. Barnier", "Erik Z. Woody", "Michael H. Connors"]
 publication_types = ["2"]
 publication = "Psychology of Consciousness: Theory, Research, and Practice, (1), 1, _pp. 3--19_, https://doi.org/10.1037/cns0000010"

@@ -1,6 +1,7 @@
 +++
 title = "Hypnotherapy for Procedural Pain and Distress in Children: A scoping Review Protocol"
 date = "2021-02-01"
+publishdate = "2000-01-01"
 authors = ["Daly Geagea", "Zephanie Tyack", "Roy Kimble", "Lars Eriksson", "Vince Polito", "Bronwyn Griffin"]
 publication_types = ["2"]
 publication = "Pain Medicine, pnab038, https://doi.org/10.1093/pm/pnab038"

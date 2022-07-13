@@ -1,6 +1,7 @@
 +++
 title = "Non-hierarchical influence of visual form, touch and position cues on embodiment, agency and presence in virtual reality"
 date = "2016-10-01"
+publishdate = "2000-01-01"
 authors = ["Stephen C. Pritchard", "Regine Zopf", "Vince Polito", "David Michael Kaplan", "Mark A. Williams"]
 publication_types = ["2"]
 publication = "Frontiers in Psychology, (7), _pp. 1649_, https://doi.org/10.3389/fpsyg.2016.01649"
