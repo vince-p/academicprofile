@@ -3,7 +3,6 @@ title: "Mummies who mushroom: The mums using psychedelics to take the edge off m
 summary: Harpers Bazaar
 tags:
  - news
- - recent
 date: 2022-06-22
 external_link: https://harpersbazaar.com.au/mums-who-microdose-psychedelics/
 image:
