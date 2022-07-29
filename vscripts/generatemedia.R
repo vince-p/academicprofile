@@ -16,9 +16,9 @@ wl <- function(input){
 
 for (i in 1:nrow(media)) {
   fold <- paste0("content/media/",media$date[i],"_",media$source[i])
+  if(media$date[i] > Sys.Date()) media$date[i] <- Sys.Date()
   dir.create(fold,showWarnings = FALSE)
   sink(file(paste0(fold,"/index.md")))
-
   wl("---")
   wl(paste0('title: "',media$title[i],'"'))
   wl(paste("summary:",media$source[i]))
