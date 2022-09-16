@@ -1,9 +1,13 @@
 # This file opens a csv with all media items and converts to hugo-academic projects
 # This script uses the custom /content/media folder (A slightly customised projects/portfolio template).
 
-library(stringi)
+if (!require("pacman")) install.packages("pacman")
+library(pacman)
+p_load(stringi)
 
-media <- read.csv("vscripts/medialist.csv")
+media <- read.csv("vscripts/medialist.csv", fileEncoding = "Windows-1252") #https://stackoverflow.com/questions/29063682/rstudio-character-encoding-issue-quotation-marks-replaced-by-x92
+# encoding option only had to be added on 16/9/22 with new pc
+
 media$date<-as.Date(media$date,"%d/%m/%Y")
 media$image_url<-as.character(media$image_url)
 # replace curly apostraphes

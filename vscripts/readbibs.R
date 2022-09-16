@@ -10,6 +10,7 @@ p_load(dplyr)
 p_load(stringr)
 p_load(anytime)
 p_load(lubridate)
+remotes::install_github("ROpenSci/bibtex")
 
 # Remove existing directories
 junk <- list.dirs(out_fold,recursive = FALSE) # https://www.geeksforgeeks.org/obtain-list-of-directories-in-r/
