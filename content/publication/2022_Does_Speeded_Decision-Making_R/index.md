@@ -1,6 +1,6 @@
 +++
 title = "Does Speeded Decision-Making Reveal Tacit Teleological Tendencies?"
-date = "2022-09-16"
+date = "2022-09-01"
 publishdate = "2000-01-01"
 authors = ["Andrew Roberts", "Simon Handley", "Vince Polito"]
 publication_types = ["2"]

@@ -10,7 +10,7 @@ p_load(dplyr)
 p_load(stringr)
 p_load(anytime)
 p_load(lubridate)
-remotes::install_github("ROpenSci/bibtex")
+#remotes::install_github("ROpenSci/bibtex")
 
 # Remove existing directories
 junk <- list.dirs(out_fold,recursive = FALSE) # https://www.geeksforgeeks.org/obtain-list-of-directories-in-r/
@@ -91,9 +91,8 @@ abstract=TRUE
     #clear out NAs in language (as this will be used to mark selected pubs)
     mypubs$language[is.na(mypubs$language)]<-""
 
-    if (is.na(mypubs$year)) {
-        mypubs$year <- 2999
-    }
+    #CHECK THIS LINE
+    mypubs$year[is.na(mypubs$year)] <- 2999
 
     extrapath <- paste(mypubs[["year"]], mypubs[["title"]] %>%
                            str_replace_all(fixed(" "), "_") %>%
