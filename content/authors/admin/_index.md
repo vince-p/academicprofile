@@ -63,7 +63,7 @@ email: "vincep@cogscience.org"
 # - Visitors
 ---
 
-I'm a Senior Research Fellow in the [School of Psychological Sciences](https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/department-of-psychology), and member of the [Biomolecular Discovery Research Centre](https://www.mq.edu.au/research/research-centres-groups-and-facilities/innovative-technologies/centres/biomolecular-discovery-research-centre/our-people) at Macquarie University. I'm interested in self representation, in particular how we monitor  feelings of control over our actions (sense of agency) and how we track our bodies in space (body representation). 
+I'm a Senior Lecturer in the [School of Psychological Sciences](https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/department-of-psychology), and member of the [Biomolecular Discovery Research Centre](https://www.mq.edu.au/research/research-centres-groups-and-facilities/innovative-technologies/centres/biomolecular-discovery-research-centre/our-people) at Macquarie University. I'm interested in self representation, in particular how we monitor  feelings of control over our actions (sense of agency) and how we track our bodies in space (body representation). 
 
 My research focuses on developing measures of how our sense of self changes in different contexts, clinical conditions, and altered states of consciousness.
 
