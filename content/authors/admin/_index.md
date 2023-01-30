@@ -18,7 +18,7 @@ organizations:
   url: "https://researchers.mq.edu.au/en/persons/vince-polito"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a Senior Research Fellow in the School of Psychological Sciences at Macquarie University.
+bio: I'm a Senior Lecturer in the School of Psychological Sciences at Macquarie University.
 
 interests:
 - Self Representation
