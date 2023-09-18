@@ -98,7 +98,8 @@ abstract=TRUE
                            str_replace_all(fixed(" "), "_") %>%
                            str_remove_all(fixed(":")) %>%
                            str_sub(1, 30), sep = "_")
-
+    #remove ?s from paths:
+    extrapath <- gsub("\\?","",extrapath)
     mypubs$extrapath<-paste(out_fold,extrapath,sep="/")
 
     mypubs$filename <- paste0(mypubs$extrapath,"/",extrapath,".pdf")
