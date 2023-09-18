@@ -63,9 +63,7 @@ email: "vincep@cogscience.org"
 # - Visitors
 ---
 
-I'm a Senior Lecturer in the [School of Psychological Sciences](https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/department-of-psychology), and member of the [Biomolecular Discovery Research Centre](https://www.mq.edu.au/research/research-centres-groups-and-facilities/innovative-technologies/centres/biomolecular-discovery-research-centre/our-people) at Macquarie University. I'm interested in self representation, in particular how we monitor  feelings of control over our actions (sense of agency) and how we track our bodies in space (body representation). 
-
-My research focuses on developing measures of how our sense of self changes in different contexts, clinical conditions, and altered states of consciousness.
+I'm a Senior Lecturer in the [School of Psychological Sciences](https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/department-of-psychology). I study cognitive and neurological changes that occur in altered states of consciousness. I'm also interested in self representation, in particular how we monitor our feelings of control over our actions (sense of agency) and how we track our bodies in space (body representation). My research focuses on understanding how altered states can improve mental health and enhance cognition. I have investigated clinical applications of low doses of psychedelics, attentional capacities in meditation, psychiatric symptoms of disturbed control, states of flow in expertise, hypnotic suggestions, and body representation alterations in virtual reality. 
 
 My work has been profiled by [Buzzfeed,](https://www.buzzfeed.com/elfyscott/were-starting-to-learn-some-incredible-things-about-hypnosis) [Nine News,](https://www.9news.com.au/national/macquarie-university-trial-depression-psilocybin-active-ingredient-magic-mushrooms-antidepressant/dea89499-8327-4f44-8eea-5b692aeadc7e
 ) [ABC News24](https://www.youtube.com/watch?v=J0OhYzOo47k&feature=youtu.be) and [many others.](#media)
