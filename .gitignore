@@ -2,7 +2,7 @@
 .idea/
 .Rproj.user
 .Rhistory
-
 # Hugo
 resources/
 public/
+.gitignore
