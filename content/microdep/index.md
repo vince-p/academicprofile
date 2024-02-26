@@ -13,14 +13,13 @@ comments: false  # Show comments?
 #  caption: "Art by Ramin Nazer"
 #  image: "1600x400_NarrowBanner.png"
 
-design:
-  background:
+background:
     color: '##1d2127'
 ---
 
 ![MicroDep](microdep_logo.png)
 
-### **Seeking participants in the Sydney area for a clinical trial investigating ‘microdosing’ for the treatment of moderate depression at Macquarie University**
+### **We are seeking participants in the Sydney area for a clinical trial investigating ‘microdosing’ for the treatment of moderate depression at Macquarie University.**
 
 <br />
 <br />
