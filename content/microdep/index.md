@@ -8,13 +8,6 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
-# Optional header image (relative to `static/img` folder).
-#header:
-#  caption: "Art by Ramin Nazer"
-#  image: "1600x400_NarrowBanner.png"
-
-background:
-    color: '##1d2127'
 ---
 
 ![MicroDep](microdep_logo.png)
@@ -40,7 +33,7 @@ _Key Inclusion Criteria:_
 •	Fluent in English  
 •	Must not drive yourself to the trial site. We can organise rideshare transport for you if you are within our catchment area or can reimburse you $100 per visit if you are driven by someone else.  
 <br />
-_Key Exclusion Criteria:  _
+_Key Exclusion Criteria:_  
 •	No comorbid mental illness of greater severity than MDD  
 •	No use of antidepressant or antipsychotic medication in past 3 months  
 •	No moderate to severe suicidal ideation in past 12 months  
