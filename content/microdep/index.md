@@ -12,6 +12,10 @@ comments: false  # Show comments?
 #header:
 #  caption: "Art by Ramin Nazer"
 #  image: "1600x400_NarrowBanner.png"
+
+design:
+  background:
+    color: '#282a36'
 ---
 
 ![MicroDep](microdep_logo.png)
