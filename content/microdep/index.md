@@ -1,7 +1,7 @@
 ---
-title: SMicrodep
-summary: Events page
-date: "2021-05-30T00:00:00Z"
+title: MicroDep Trial
+summary: MicroDep Trial Information
+date: "2024-02-25T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -9,18 +9,35 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 # Optional header image (relative to `static/img` folder).
-header:
-  caption: "Art by Ramin Nazer"
-  image: "1600x400_NarrowBanner.png"
+#header:
+#  caption: "Art by Ramin Nazer"
+#  image: "1600x400_NarrowBanner.png"
 ---
-## **_{{< span style="color:FireBrick;" text="*** New dates now listed below. *** " >}}_**
 
-![EOC](water.jpg)
-## **Otherworldly Events and Dr Vince Polito present**
-# **Science at the Edge of Consciousness**
 
-### MICRODEP
-<br />
-Join Dr Vince Polito for a trip through ancient and modern techniques of consciousness alteration to discover what altered states can teach us about the inner workings of our brains and minds.
-<br />
-<br />
+## **MicroDep Trial**
+
+#### Seeking participants in the Sydney area for a clinical trial investigating ‘microdosing’ for the treatment of moderate depression at Macquarie University.
+
+**What is involved?**
+Participants will undergo comprehensive psychiatric screening, and, if eligible, will take part in a 10-week intervention with 6 weeks of drug treatment (two microdoses each week). 
+
+**What are the risks?**
+Risks are minimal – there are no associations with dependence, overdose or long-term harm. 
+The low doses used in this study are not expected to lead to marked changes in conscious awareness.
+
+**Who can participate?**
+_Key Inclusion Criteria:_
+•	Major depressive disorder of moderate severity
+•	Aged 18+
+•	Fluent in English
+•	Must not drive yourself to the trial site. We can organise rideshare transport for you if you are within our catchment area or can reimburse you $100 per visit if you are driven by someone else.
+Key Exclusion Criteria:
+•	No comorbid mental illness of greater severity than MDD
+•	No use of antidepressant or antipsychotic medication in past 3 months
+•	No moderate to severe suicidal ideation in past 12 months
+•	No history of psychosis, bipolar disorder, stroke or epilepsy
+•	No 1st degree relative with psychosis 
+
+**How do I get involved?**
+Email microdep@mq.edu.au or phone (02) 7230 1367 and we will send you a survey to assess whether the trial is a good fit for you. 
