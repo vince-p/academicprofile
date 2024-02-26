@@ -1,5 +1,5 @@
 ---
-title: MicroDep Trial
+title: Recruitment Now Open
 summary: MicroDep Trial Information
 date: "2024-02-25T00:00:00Z"
 
@@ -15,7 +15,7 @@ comments: false  # Show comments?
 
 design:
   background:
-    color: '#282a36'
+    color: '##1d2127'
 ---
 
 ![MicroDep](microdep_logo.png)
