@@ -11,29 +11,27 @@ comments: false  # Show comments?
 ---
 
 ![MicroDep](microdep_logo.png)
-
-## **_We are seeking participants in the Sydney area for a clinical trial investigating ‘microdosing’ for the treatment of moderate depression at Macquarie University._**
-
 <br />
+## **_{{< span style="color:#43C6DB;" text="We are seeking participants in the Sydney area for a clinical trial investigating ‘microdosing’ for the treatment of moderate depression at Macquarie University." >}}_** 
 <br />
 ### **{{< span style="color:#43C6DB;" text="What is involved?" >}}**  
 Participants will undergo comprehensive psychiatric screening, and, if eligible, will take part in a 10-week intervention with 6 weeks of drug treatment (two microdoses each week).   
 <br />
 <br />
-### **{{< span style="color:##43C6DB;" text="What are the risks?" >}}**  
+### **{{< span style="color:#43C6DB;" text="What are the risks?" >}}**  
 Risks are minimal – there are no associations with dependence, overdose or long-term harm.   
 The low doses used in this study are not expected to lead to marked changes in conscious awareness.  
 <br />
 <br />
 
 ### **{{< span style="color:#43C6DB;" text="Who can participate?  " >}}**  
-#### _Key Inclusion Criteria:_  
+**_Key Inclusion Criteria:_**  
 •	Major depressive disorder of moderate severity  
 •	Aged 18+  
 •	Fluent in English  
 •	Must not drive yourself to the trial site. We can organise rideshare transport for you if you are within our catchment area or can reimburse you $100 per visit if you are driven by someone else.  
 <br />
-#### _Key Exclusion Criteria:_  
+**_Key Exclusion Criteria:_**  
 •	No comorbid mental illness of greater severity than MDD  
 •	No use of antidepressant or antipsychotic medication in past 3 months  
 •	No moderate to severe suicidal ideation in past 12 months  
