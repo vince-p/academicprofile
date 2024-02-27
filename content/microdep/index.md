@@ -16,16 +16,17 @@ comments: false  # Show comments?
 
 <br />
 <br />
-**What is involved?**  
+#### **_{{< span style="color:TealBlue;" text="What is involved?" >}}_**  
 Participants will undergo comprehensive psychiatric screening, and, if eligible, will take part in a 10-week intervention with 6 weeks of drug treatment (two microdoses each week).   
 <br />
 <br />
-**What are the risks?**  
+## **_{{< span style="color:TealBlue;" text="What are the risks?" >}}_**  
 Risks are minimal – there are no associations with dependence, overdose or long-term harm.   
 The low doses used in this study are not expected to lead to marked changes in conscious awareness.  
 <br />
 <br />
-**Who can participate?**  
+
+##### **_{{< span style="color:TealBlue;" text="Who can participate?  " >}}_**  
 <br />
 _Key Inclusion Criteria:_  
 •	Major depressive disorder of moderate severity  
@@ -41,5 +42,5 @@ _Key Exclusion Criteria:_
 •	No 1st degree relative with psychosis   
 <br />
 <br />
-**How do I get involved?**  
+**_{{< span style="color:TealBlue;" text="How do I get involved?" >}}_**  
 Email microdep@mq.edu.au or phone (02) 7230 1367 and we will send you a survey to assess whether the trial is a good fit for you. 
