@@ -26,17 +26,17 @@ The low doses used in this study are not expected to lead to marked changes in c
 
 ### **{{< span style="color:#43C6DB;" text="Who can participate?  " >}}**  
 **_Key Inclusion Criteria:_**  
-•	Major depressive disorder of moderate severity  
-•	Aged 18+  
-•	Fluent in English  
+•	Major depressive disorder of moderate severity.  
+•	Aged 18+.  
+•	Fluent in English.  
 •	Must not drive yourself to the trial site. We can organise rideshare transport for you if you are within our catchment area or can reimburse you $100 per visit if you are driven by someone else.  
 <br />
 **_Key Exclusion Criteria:_**  
-•	No comorbid mental illness of greater severity than MDD  
-•	No use of antidepressant or antipsychotic medication in past 3 months  
-•	No moderate to severe suicidal ideation in past 12 months  
-•	No history of psychosis, bipolar disorder, stroke or epilepsy  
-•	No 1st degree relative with psychosis   
+•	No comorbid mental illness of greater severity than MDD.  
+•	No use of antidepressant or antipsychotic medication in past 3 months.  
+•	No moderate to severe suicidal ideation in past 12 months.  
+•	No history of psychosis, bipolar disorder, stroke or epilepsy.  
+•	No 1st degree relative with psychosis.   
 <br />
 <br />
 ### **{{< span style="color:#43C6DB;" text="How do I get involved?" >}}**  

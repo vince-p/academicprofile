@@ -63,7 +63,9 @@ email: "vincep@cogscience.org"
 # - Visitors
 ---
 
-I'm a Senior Lecturer in the [School of Psychological Sciences](https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/department-of-psychology) at Macquarie University in Sydney, Australia. I'm the Principal Investigator of the [MicroDep Trial](microdep), investigating low doses of psilocybin as a treatment for moderate depression. I'm also a member of the 'm also a member of the [Lifespan Health & Wellbeing Research Centre](mq.edu.au/lifespan) and the [Macquarie University Ethics and Agency Research Centre](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/macquarie-university-research-centre-for-agency,-values-and-ethics).  
+I'm a Senior Lecturer in the [School of Psychological Sciences](https://www.mq.edu.au/about/about-the-university/our-faculties/medicine-and-health-sciences/departments-and-centres/department-of-psychology) at Macquarie University in Sydney, Australia.  
+I'm the Principal Investigator of the [MicroDep Trial](microdep), investigating low doses of psilocybin as a treatment for moderate depression.  
+I'm also a member of the 'm also a member of the [Lifespan Health & Wellbeing Research Centre](https://mq.edu.au/lifespan) and the [Macquarie University Ethics and Agency Research Centre](https://www.mq.edu.au/research/research-centres-groups-and-facilities/resilient-societies/centres/macquarie-university-research-centre-for-agency,-values-and-ethics).  
 
 I study cognitive and neurological changes that occur in altered states of consciousness. I'm also interested in self representation, in particular how we monitor our feelings of control over our actions (sense of agency) and how we track our bodies in space (body representation). 
 
