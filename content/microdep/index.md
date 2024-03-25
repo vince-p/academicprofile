@@ -12,9 +12,12 @@ comments: false  # Show comments?
 
 ![MicroDep](microdep_logo.png)
 <br />
-## **_{{< span style="color:#0099FF;" text="We are seeking participants in the Sydney area for a clinical trial investigating ‘microdosing’ for the treatment of moderate depression at Macquarie University." >}}_** 
+## **_{{< span style="color:#FF9900;" text="We are seeking participants in the Sydney area for a clinical trial investigating ‘microdosing’ for the treatment of moderate depression at Macquarie University." >}}_** 
+## **We are seeking participants in the Sydney area for a clinical trial investigating ‘microdosing’ for the treatment of moderate depression at Macquarie University.** 
+
+
 <br />
-### **{{< span style="color:#9900FF;" text="What is involved?" >}}**  
+### **{{< span style="color:#FF9900;" text="What is involved?" >}}**  
 Participants will undergo comprehensive psychiatric screening, and, if eligible, will take part in a 10-week intervention with 6 weeks of drug treatment (two microdoses each week).   
 <br />
 <br />
@@ -24,7 +27,7 @@ The low doses used in this study are not expected to lead to marked changes in c
 <br />
 <br />
 
-### **{{< span style="color:#FF4500;" text="Who can participate?  " >}}**  
+### **{{< span style="color:#FF9900;" text="Who can participate?  " >}}**  
 **_Key Inclusion Criteria:_**  
 •	Major depressive disorder of moderate severity.  
 •	Aged 18+.  
@@ -39,5 +42,5 @@ The low doses used in this study are not expected to lead to marked changes in c
 •	No 1st degree relative with psychosis.   
 <br />
 <br />
-### **{{< span style="color:#000000;" text="How do I get involved?" >}}**  
+### **{{< span style="color:#FF9900;" text="How do I get involved?" >}}**  
 Email microdep@mq.edu.au or phone (02) 7230 1367 and we will send you a survey to assess whether the trial is a good fit for you. 
