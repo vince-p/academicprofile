@@ -4,7 +4,7 @@ summary: Nine News
 tags:
  - news
 date: 2018-09-09
-external_link: https://pickle.nine.com.au/2018/09/09/12/57/virtual-reality-science-research
+external_link: https://web.archive.org/web/20190318221443/https://pickle.nine.com.au/2018/09/09/12/57/virtual-reality-science-research
 image:
   focal_point: "Center"
 ---

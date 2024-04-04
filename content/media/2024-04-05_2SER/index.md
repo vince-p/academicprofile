@@ -1,0 +1,11 @@
+---
+title: "Investigating the Potential of Psychedelics in Psychotherapy"
+summary: 2SER
+tags:
+ - radio
+ - recent
+date: 2024-04-05
+external_link: https://2ser.com/investigating-the-potential-of-psychedelics-in-psychotherapy-with-dr-vince-polito/
+image:
+  focal_point: "Center"
+---
