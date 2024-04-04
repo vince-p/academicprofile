@@ -1,6 +1,6 @@
 ---
 title: "Investigating the Potential of Psychedelics in Psychotherapy"
-summary: 2SER
+summary: "2SER Radio"
 tags:
  - radio
  - recent
