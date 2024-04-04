@@ -1,5 +1,5 @@
 ---
-title: "aaa"
+title: "Investigating the Potential of Psychedelics in Psychotherapy"
 summary: TEST
 tags:
  - radio
