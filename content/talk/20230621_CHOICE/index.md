@@ -20,7 +20,7 @@ event = "Centre for Health Outcomes, Innovation & Clinical Education, The Univer
 #event_url = "https://gardenstates.org/"
 
 # Location of event.
-#location = "Springvale, Victoria"
+location = "Centre for Health Outcomes, Innovation & Clinical Education, The University of Queensland, Brisbane, Australia"
 
 # Is this a featured talk? (true/false)
 featured = false

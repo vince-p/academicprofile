@@ -1,5 +1,5 @@
 +++
-title = "Microdosing and Mental Health"
+title = "Science Week 2023: Microdosing and Mental Health"
 publishDate = 2020-06-28T10:00:00  # Schedule page publish date.
 draft = false
 profile = false
@@ -13,14 +13,14 @@ date = 2023-08-17T19:00:00
 authors = ["Vince Polito"]
 
 # Abstract and optional shortened version.
-abstract = "An interesting conversation between cognitive psychologist Dr Vince Polito and journalist Gemma Conroy as they discuss the emerging trend of microdosing. Explore the potential mental health benefits of taking sub-perceptual doses of psychedelic substance."
+abstract = "Join in an interesting Science Week conversation between cognitive psychologist Dr Vince Polito and journalist Gemma Conroy as they discuss the emerging trend of microdosing. Explore the potential mental health benefits of taking sub-perceptual doses of psychedelic substance."
 
 # Name of event and optional event URL.
-event = "Science Week 2023"
+#event = "Science Week 2023"
 #event_url = "https://gardenstates.org/"
 
 # Location of event.
-location = "Leichardt Library"
+location = "Science Week 2023 @ Leichardt Library"
 
 # Is this a featured talk? (true/false)
 featured = false

@@ -16,11 +16,11 @@ authors = ["Vince Polito"]
 abstract = "The psychedelic renaissance is in full swing, but along with research into new treatments, on the fringes of science there have been fascinating experiments exploring what psychedelics reveal about the nature of our minds. Strap yourselves in with Dr Vince Polito."
 
 # Name of event and optional event URL.
-event = "Splendour In The Grass Festival 2023"
+#event = "Splendour In The Grass Festival 2023"
 event_url = "https://inspiringnsw.org.au/2023/06/23/science-tent-at-splendour-in-the-grass-2023/"
 
 # Location of event.
-#location = "Springvale, Victoria"
+location = "Splendour In The Grass Festival 2023"
 
 # Is this a featured talk? (true/false)
 featured = false
