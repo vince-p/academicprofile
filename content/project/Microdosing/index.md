@@ -3,7 +3,7 @@
 title = "Microdosing Psychedelics"
 
 # Date this page was created.
-date = 2019-01-15
+date = 2024-02-15
 
 # Project summary to display on homepage.
 summary = "What are the short and long term effects of microdosing psychedelic substances?"
@@ -48,9 +48,12 @@ links = [{icon_pack = "fas", icon="envelope-open", name="Get Updates on Future M
   focal_point = "Bottom"
 +++
 
+**We are currently recruiting participants for the [MicroDep Trial](https://vincep.cogscience.org/microdep), which is exploring the potential of low doses of psilocybin to treat moderate depression. Click through for more information.**
 
 
-Microdosing, i.e., regularly taking very small doses of psychedelic substances has become a popular trend. In this research we investigated the short and long term effects of microdosing on wellbeing, cognition and agency.
+Microdosing, i.e., regularly taking very small doses of psychedelic substances has become a popular trend. This [review](https://linkinghub.elsevier.com/retrieve/pii/S0149763422001956) summarises the current state of microdosing science.
+<br>
+Our team also conducted one of the first longitudinal studies of microdosing. We investigated the short and long term effects of microdosing on wellbeing, cognition and agency.
 We were particularly interested in the role of belief and expectation in shaping participants microdosing experiences.
 <br>
 {{< youtube J0OhYzOo47k >}}
