@@ -6,7 +6,7 @@ profile = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date = 2022-11-22T10:00:00
+date = 2023-11-22T10:00:00
 #date_end = 2022-12-04T19:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
