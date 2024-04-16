@@ -13,8 +13,7 @@ date = 2022-11-22T10:00:00
 authors = ["Vince Polito"]
 
 # Abstract and optional shortened version.
-abstract = "The use of low doses of psychedelic substances (microdosing) is attracting increasing interest. Proponents of microdosing claim a wide range of clinically relevant cognitive enhancement effects. However, ongoing questions around effective doses and the role of expectation have led to confusion and controversy in microdosing science.
-To help unpack these issues I will present results of two recent reviews summarising all empirical microdosing research until April 2023, including a set of infrequently cited studies that took place prior to prohibition."
+abstract = "The use of low doses of psychedelic substances (microdosing) is attracting increasing interest. Proponents of microdosing claim a wide range of clinically relevant cognitive enhancement effects. However, ongoing questions around effective doses and the role of expectation have led to confusion and controversy in microdosing science. To help unpack these issues I will present results of two recent reviews summarising all empirical microdosing research until April 2023, including a set of infrequently cited studies that took place prior to prohibition."
 
 # Name of event and optional event URL.
 event = "Australasian Society of Clinical and Experimental Pharmacologists and Toxicologists Annual Scientific Meeting"
