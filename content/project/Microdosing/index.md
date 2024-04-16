@@ -50,9 +50,9 @@ links = [{icon_pack = "fas", icon="envelope-open", name="Get Updates on Future M
 
 **We are currently recruiting participants for the [MicroDep Trial](https://vincep.cogscience.org/microdep), which is exploring the potential of low doses of psilocybin to treat moderate depression. Click through for more information.**
 
-
+<br><br>
 Microdosing, i.e., regularly taking very small doses of psychedelic substances has become a popular trend. This [review](https://linkinghub.elsevier.com/retrieve/pii/S0149763422001956) summarises the current state of microdosing science.
-<br>
+<br><br>
 Our team also conducted one of the first longitudinal studies of microdosing. We investigated the short and long term effects of microdosing on wellbeing, cognition and agency.
 We were particularly interested in the role of belief and expectation in shaping participants microdosing experiences.
 <br>
