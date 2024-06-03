@@ -3,7 +3,7 @@
 title = "Wise Cogntion"
 
 # Date this page was created.
-#date = 2021-01-14
+date = 2021-01-1
 
 # Project summary to display on homepage.
 summary = "How do beliefs, memory and decision making processes shape our individual and social behaviours?"
