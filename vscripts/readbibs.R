@@ -27,6 +27,7 @@ abstract=TRUE
   z <- ReadZotero(user = "4226", .params = list(collection = "QIKM8IVA", key = "76GElUBWjuYxOPpdBzm5jSeX", limit=200),delete.file = TRUE)
   # clean paper titles
   z$title<-gsub("[{}]", "", z$title)
+  z$title <- gsub("’","'", z$title)
   zframe <- select(as.data.frame(z), -abstract)
 
 

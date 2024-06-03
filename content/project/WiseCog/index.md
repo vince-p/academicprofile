@@ -3,7 +3,7 @@
 title = "Wise Cogntion"
 
 # Date this page was created.
-date = 2019-01-14
+#date = 2021-01-14
 
 # Project summary to display on homepage.
 summary = "How do beliefs, memory and decision making processes shape our individual and social behaviours?"
@@ -39,7 +39,7 @@ url_code = ""
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "By bob"
+  #caption = "By bob"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
