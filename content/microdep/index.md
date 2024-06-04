@@ -12,7 +12,7 @@ comments: false  # Show comments?
 
 ![MicroDep](microdep_logo.png)
 <br />
-## **_{{< span style="color:#FF9900;" text="We are seeking participants in the Sydney area for a clinical trial investigating ‘microdosing’ for the treatment of moderate depression at Macquarie University." >}}_** 
+## **_We are seeking participants in the Sydney area for a clinical trial investigating ‘microdosing’ for the treatment of moderate depression at Macquarie University._** 
 
 <br />
 ### **{{< span style="color:#FF9900;" text="What is involved?" >}}**  
