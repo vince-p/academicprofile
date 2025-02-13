@@ -1,5 +1,5 @@
 +++
-title = "Microdosing in the Age of Self-Optimisation"
+title = "Can hypnosis make you ticklish"
 publishDate = 2020-06-28T10:00:00  # Schedule page publish date.
 draft = false
 profile = false
