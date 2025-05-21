@@ -1,7 +1,10 @@
 #adapted from https://lbusett.netlify.com/post/automatically-importing-publications-from-bibtex-to-a-hugo-academic-blog/
 # Need a better way of cleaning escape characters
 
+
+# must configure better bibtex to export personal papers to:
 bibfile <- "c:/bib/papers.bib"
+
 out_fold   <- "content/publication"
 
 pacman::p_load(pacman)
