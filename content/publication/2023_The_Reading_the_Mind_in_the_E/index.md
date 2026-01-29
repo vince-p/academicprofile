@@ -1,5 +1,5 @@
 +++
-title = "The "Reading the Mind in the Eyes" Test Shows Poor Psychometric Properties in a Large, Demographically Representative U.S. Sample"
+title = "The 'Reading the Mind in the Eyes' Test Shows Poor Psychometric Properties in a Large, Demographically Representative U.S. Sample"
 date = "2023-01-01"
 publishdate = "2000-01-01"
 authors = ["Wendy C. Higgins", "Robert M. Ross", "Robyn Langdon", "Vince Polito"]

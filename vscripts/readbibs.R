@@ -163,7 +163,8 @@ create_md <- function(x) {
         write("+++", fileConn)
 
         # Title and date
-        write(paste0("title = \"", x[["title"]], "\""), fileConn, append = T)
+        safe_title <- gsub('"', "'", x[["title"]])
+        write(paste0("title = \"", safe_title, "\""), fileConn, append = T)
         #use lubridate function to parse month and year fields into date
         write(
             paste0(
