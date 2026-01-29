@@ -40,21 +40,30 @@ z <- ReadZotero(
 z$title <- gsub("[{}]", "", z$title)
 z$title <- gsub("’", "'", z$title)
 zframe <- select(as.data.frame(z), -abstract)
-
+zframe$lowtitle <- str_to_lower(zframe$title)
 
 # Import the local bibtex file and convert to data.frame
 l <- ReadBib(bibfile, check = "warn", .Encoding = "UTF-8")
 # clean paper titles
 l$title <- gsub("[{}]", "", l$title)
+l$title <- gsub("``|''", '"', l$title)
 #l$title<-gsub("â€“", "-", l$title) # PROBLEM WITH HYPHENS. NEED TO MANUALLY EDIT RECORDS IN ZOTERO :(
 # select only title and files and abstract
 # for an unknown reason the local abstract handles special characters better
 lframe <- select(as.data.frame(l), title, file, abstract)
+lframe$lowtitle <- str_to_lower(lframe$title)
 
 #join dataframes to get nice formatting from zotero + filenames from local
 #mypubs <- left_join(zframe,lframe) # This used to work but recently caused errors. It would not match on citation key
 
-mypubs <- full_join(zframe, lframe, by = "title") # matching by title prevents problems with citation keys
+
+
+mypubs <- left_join(zframe, select(lframe, -title), by = "lowtitle") # matching by title prevents problems with citation keys
+
+# debugging title matching
+#c <- data.frame(online=sort(zframe$lowtitle),local=sort(lframe$lowtitle))
+#c$match <- c$online==c$local
+
 
 #code to remove bibTex and text formatting errors
 mypubs$journal <- gsub('\\', '', mypubs$journal, fixed = TRUE)
@@ -122,13 +131,15 @@ extrapath <- paste(
         str_sub(1, 30),
     sep = "_"
 )
-#remove ?s from paths:
+
+# Clean invalid Windows filename characters BEFORE using extrapath
 extrapath <- gsub("\\?", "", extrapath)
+extrapath <- gsub('[<>:"\\|?*]', '', extrapath)
+
 mypubs$extrapath <- paste(out_fold, extrapath, sep = "/")
-mypubs$extrapath <- gsub('[<>:"/\\|?*]', '', mypubs$extrapath)
 
+# Now filename will use the cleaned extrapath
 mypubs$filename <- paste0(mypubs$extrapath, "/", extrapath, ".pdf")
-
 
 # create a function which populates the md template based on the info
 # about a publication
