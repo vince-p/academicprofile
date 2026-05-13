@@ -1,5 +1,5 @@
 ---
-title: "Sound baths are supposed to help relax and soothe your nervous system. But do any of these claims ring true?"
+title: "Sound baths are supposed to help relax and soothe your nervous system. But do any of these claims ring true"
 summary: The Guardian
 tags:
  - news
