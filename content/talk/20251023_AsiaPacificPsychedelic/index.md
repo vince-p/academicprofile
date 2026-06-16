@@ -20,7 +20,7 @@ event = "Asia-Pacific Symposium on Psychedelic Medicine"
 #event_url = ""
 
 # Location of event.
-location = "Kuala Lumpur, Malaysia"
+location = "Asia-Pacific Symposium on Psychedelic Medicine, Kuala Lumpur, Malaysia"
 
 # Is this a featured talk? (true/false)
 featured = false
@@ -31,7 +31,7 @@ featured = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["AlteredStates"]
+projects = ["Microdosing"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
