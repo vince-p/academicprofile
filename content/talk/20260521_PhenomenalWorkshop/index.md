@@ -20,7 +20,7 @@ event = "Phenomenal Workshop"
 #event_url = ""
 
 # Location of event.
-location = "University of Sussex, UK"
+location = "Phenomenal Workshop, University of Sussex, UK"
 
 # Is this a featured talk? (true/false)
 featured = false

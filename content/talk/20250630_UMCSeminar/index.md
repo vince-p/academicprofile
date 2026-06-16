@@ -20,7 +20,7 @@ event = "UMC Groningen Seminar Series"
 #event_url = ""
 
 # Location of event.
-location = "University Medical Center Groningen, University of Groningen, The Netherlands"
+location = "UMC Groningen Seminar Series, University Medical Center Groningen, University of Groningen, The Netherlands"
 
 # Is this a featured talk? (true/false)
 featured = false

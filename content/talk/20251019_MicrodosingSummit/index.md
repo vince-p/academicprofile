@@ -20,7 +20,7 @@ event = "Microdosing and Psychedelic Retreats Summit"
 #event_url = ""
 
 # Location of event.
-location = "Online Webinar"
+location = "Microdosing and Psychedelic Retreats Summit, Online Webinar"
 
 # Is this a featured talk? (true/false)
 featured = false

@@ -20,7 +20,7 @@ event = "Qualius Workshop on Non-Ordinary States of Consciousness"
 #event_url = ""
 
 # Location of event.
-location = "Ligres, Greece"
+location = "Qualius Workshop on Non-Ordinary States of Consciousness, Ligres, Greece"
 
 # Is this a featured talk? (true/false)
 featured = false
